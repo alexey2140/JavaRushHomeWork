@@ -1,0 +1,10 @@
+.classpath
+.project
+/.idea/
+/out/
+/target/
+/failedTests/
+/Snapshots/
+/Temps/
+/*.txt
+/*.log
